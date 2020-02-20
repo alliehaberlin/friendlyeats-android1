@@ -32,6 +32,10 @@ dependencies {
     // FirebaseUI (for authentication)
     implementation 'com.firebaseui:firebase-ui-auth:6.2.0'
 
+    // ButterKnife (for sample code brevity)
+  //  implementation 'com.jakewharton:butterknife:10.2.1'
+    // annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+
     // Support Libs
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.vectordrawable:vectordrawable-animated:1.1.0'
